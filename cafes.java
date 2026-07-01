@@ -1,8 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        String name = "cafeteiro Mateus o que seria hoje?";
-        System.out.println("Bem vindo! Respondendo à pergunta: '" + name + "'");
-        System.out.println("Hoje, o profissional especialista no preparo de cafés é conhecido como Barista e o nome dele é Jaime.");
+        String name = "Cafeteiro Mateus";
+        System.out.println("Bem vindo! o que seria hoje? '" + name + "'");
+        System.out.println("O profissional especialista no preparo de cafés é o Barista Jaime.");
         System.out.println("----------------------------------------");
         
      
